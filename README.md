@@ -1,5 +1,4 @@
 
-```markdown
 # Text Sentiment Analysis
 
 ## Overview
@@ -144,4 +143,4 @@ For any questions or feedback, please contact:
 - **Email:** ziishanahmad@gmail.com
 - **GitHub:** [ziishanahmad](https://github.com/ziishanahmad)
 - **LinkedIn:** [ziishanahmad](https://www.linkedin.com/in/ziishanahmad/)
-```
+
